@@ -1,1 +1,1 @@
-# NSL-KDD_prediction_CNN
+# Intrusion_Detection_using_CNN
