@@ -1,1 +1,4 @@
 # Intrusion_Detection_using_CNN
+
+## Abstract ##
+To address the increasing cyber threats, there is a rising demand for effective cybersecurity measures. Detecting cyber intrusions accurately has become a key focus of recent research. Traditional Intrusion Detection Systems (IDS) based on conventional machine learning techniques lack reliability and precision. In this analysis we used an IDS model using deep learning methods. Unlike previous research that relied on traditional machine learning, we believe that deep learning has the potential to better extract features from the vast amount of real-life cyber traffic data. Our approach involves training an IDS model using Convolutional Neural Networks (CNN), a popular deep learning technique, with the complete NSL-KDD dataset. Our model significantly enhances intrusion detection accuracy and provides a promising direction for future work in this field.
